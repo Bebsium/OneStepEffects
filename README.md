@@ -1,24 +1,23 @@
 OneStepEffects
-
 =============
 
 １クリックで綺麗なエフェクトやライティングを設定してくれるUnityエディタ拡張です。
 
 =============
 
-*準備*
+**準備**
 
 1. [KinoObscurance](https://github.com/keijiro/KinoObscurance/) をzipでダウンロードして、「KinoObscurance.unitypackage」を Assets にドラッグアンドドロップして Import する。
 1. [KinoBloom](https://github.com/keijiro/KinoBloom/) をzipでダウンロードして、「KinoBloom.unitypackage」を Assets にドラッグアンドドロップして Import する。
 1. Asset Store で [Shader Calibration Scene](http://u3d.as/aiF) をダウンロードして Import する。
 
-*実行*
+__実行__
 
 1. Window -> One Step Effects を選択すると、One Step Effects設定ウィンドウが表示される。
 1. 何も設定に変更なければ「Apply」を押す。
 1. ライトマップの焼き付けが終われば出来上がり。
 
-*詳細*
+__詳細__
 
 やっていることは以下の通り
 
