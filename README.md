@@ -3,6 +3,9 @@ OneStepEffects
 
 １クリックで綺麗なエフェクトやライティングを設定してくれるUnityエディタ拡張です。
 
+![Screen][ImageBefore]
+![Screen][ImageAfter]
+
 =============
 
 __準備__
@@ -34,3 +37,6 @@ __詳細__
 - カメラに Kino Obscurance エフェクトをつける
 - ライトマップ設定をちょうどいい感じにする
 - Precomputed Realtime GI の設定で Build する
+
+[ImageBefore]: https://41.media.tumblr.com/af070243287e1c5555d95cd4973bef57/tumblr_o3mohxGqeO1rvzjtro1_1280.png
+[ImageAfter]: https://40.media.tumblr.com/26e9047b90ca99eaa25ded2bdf1f78d5/tumblr_o3mohxGqeO1rvzjtro2_1280.png
